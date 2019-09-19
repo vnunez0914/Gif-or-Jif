@@ -2,6 +2,13 @@ body{
     align-content: center;
 }
 
+h1{
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .gif-btn{
     margin: 10px;
+    background-color: blue;
+    color: white;
 }
